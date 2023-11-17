@@ -3,7 +3,7 @@ A passionate experienced Android developer with a strong background in Java and 
 
 Ask me about Android SDK, JAVA, Kotlin, Jetpack Compose, Object Oriented Programming (OOP), Data Structures, Design Patterns (MVC, MVP, MVVM), Google Android’s design principles, Firebase, Coroutines, Threading, Storage, Room Database, Retrofit, XML, JSON, RESTFUL API, Hilt, Google Maps, Location Tracking, Lambda Expressions, Data Binding, Git, GitHub, Navigation architecture, Agile, SCRUM, Jira, and Android Studio
 
-📫 How to reach me momo46060@gmail.com@gmail.com
+📫 How to reach me momo46060@gmail.com
 <!--
 **momo46060/momo46060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
