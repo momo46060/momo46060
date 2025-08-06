@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1> <p align="center">A highly skilled Mobile Application Developer with 5+ years of expertise in Android Native and Flutter development. I have a strong track record of delivering high-quality, user-friendly applications. Currently working as a Senior Android Developer, I am passionate about mobile architecture, design patterns, and creating scalable solutions.</p>
-💼 Professional Expertise
-With extensive experience in mobile app development, I specialize in:
+<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1> <p align="center"A highly skilled Mobile Application & Backend Developer with 5+ years of expertise in Android Native, Flutter, and Spring Boot development. I have a strong track record of delivering high-quality, user-friendly, and scalable applications. Currently working as a Senior Android Developer, I am passionate about mobile architecture, backend design patterns, and creating robust full‑stack solutions.
 
+💼 Professional Expertise
+With extensive experience in both mobile app and backend development, I specialize in:
+
+Mobile Development:
 Android SDK, Java, Kotlin, Jetpack Compose
 Object-Oriented Programming (OOP), Data Structures, Design Patterns (MVC, MVP, MVVM)
 Firebase, Room Database, Retrofit, Dagger 2, Hilt
@@ -9,6 +11,16 @@ RESTful API integration, JSON, XML, RXJava, Coroutines
 Location Services, Google Maps, and Navigation architecture
 Unit Testing, Android Testing, Git, GitHub
 Agile methodologies (SCRUM), Jira, Android Studio
+
+Backend Development (Spring Boot):
+Spring Boot 3, Spring MVC, Spring Security, JWT Authentication, OAuth2
+Spring Data JPA, Hibernate, MySQL, PostgreSQL
+Thymeleaf, RESTful API Development
+Role-Based Access Control, Scheduling & Background Jobs
+API Documentation (Swagger/OpenAPI)
+Maven, Gradle, Docker
+
+I thrive in building complete solutions from mobile front‑end to backend systems, ensuring seamless integration, performance, and scalability.
 
 📫 Contact Me
 Email: momo46060@gmail.com
